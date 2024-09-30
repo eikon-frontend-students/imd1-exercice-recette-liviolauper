@@ -1,0 +1,38 @@
+main {
+  padding-top: 15 px;
+  align-content: center;
+  max-width: 480px;
+  max-height: 640px;
+  border: 8px solid #000;
+  background: #d9d9d9;
+}
+
+.pd {
+  display: block;
+  padding: 20 px;
+  margin-top: 15 px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #8b8b8b;
+  width: 160 px;
+  height: 160 px;
+  flex-shrink: 0;
+}
+
+h1 {
+  background: var(--fond, #8b8b8b);
+  width: 400px;
+  height: 64px;
+  flex-shrink: 0;
+  margin-left: auto;
+  margin-right: auto;
+  color: var(--txt, #fff);
+  text-align: center;
+  font-family: Silkscreen;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+div {
+}
